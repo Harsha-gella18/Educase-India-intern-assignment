@@ -9,7 +9,7 @@ function ProfilePage() {
           <div className="p-6 bg-gray-50">
             <div className="flex items-start">
               <div className="relative">
-                <img src="/images/profile-pic.png" alt="Profile" className="w-16 h-16 rounded-full object-cover" />
+                <img src="image.png" alt="Profile" className="w-16 h-16 rounded-full object-cover" />
                 <div className="absolute bottom-0 right-0 w-5 h-5 bg-purple-600 rounded-full flex items-center justify-center text-white text-xs">
                   ✓
                 </div>
